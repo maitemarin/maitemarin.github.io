@@ -472,7 +472,7 @@ ol {
 	z-index: 5;
 }
 
-.social-section .social-link-warp:after {
+/* .social-section .social-link-warp:after {
 	position: absolute;
 	content: '';
 	width: 50%;
@@ -481,7 +481,7 @@ ol {
 	top: 50%;
 	margin-top: 1px;
 	background: #cbcbcb;
-}
+} */
 
 /*---------------------
 	Resume section
